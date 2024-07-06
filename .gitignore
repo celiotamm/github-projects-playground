@@ -1,4 +1,4 @@
 node_modules
 .DS_Store
-.tmo
+.tmp
 npm.debug.log
